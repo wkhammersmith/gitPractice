@@ -7,11 +7,11 @@ import Footer from './Componets/footer';
 function App() {
   return (
     <div>
-   <Header />
-   <List />
-   <Names />
-   <Footer />
-   </div>
+      <Header />
+      <List />
+      <Names />
+      <Footer />
+    </div>
   );
 }
 

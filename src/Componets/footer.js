@@ -1,15 +1,15 @@
 import React from "react";
 
-function Footer(){
+function Footer() {
   const year = new Date().getFullYear()
 
 
-return(
-  <footer>
-    <p>Copyright © Jacks-an-Jill-Five Practice {year}</p>
+  return (
+    <footer>
+      <p>Copyright © Jacks-an-Jill-Five Practice {year}</p>
 
-  </footer>
-);
+    </footer>
+  );
 
 };
 
