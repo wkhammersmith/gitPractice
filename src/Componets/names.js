@@ -9,6 +9,7 @@ function Names() {
   const name3 = "Christina Foster"
   const name4 = "Samuel Akins"
   const name5 = "Joshua Betrand"
+  const name6 = "Testing Howard"
 
   return (
     <div>
@@ -18,6 +19,7 @@ function Names() {
         <li>{name3}</li>
         <li>{name4}</li>
         <li>{name5}</li>
+        <li>{name6}</li>
       </ul>
     </div>
 
